@@ -23,6 +23,16 @@ Tool citation:
 ```
 
 Dataset:
+```
+@misc{finum3,
+title={Overview of the NTCIR-16 FinNum-3 Task (English) : Investor's and Manager's Fine-grained Claim Detection},
+author={Chen, Chung-Chi and Huang, Hen-Hsen and Takamura, Hiroya and Huang, Yu-Lieh and Chen, Hsin-Hsi},
+booktitle = "Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies",
+url = "forthcoming",
+intype = {to appear in},
+}
+```
+
 ```bibtex 
 @inbook{numclaim,
 author = {Chen, Chung-Chi and Huang, Hen-Hsen and Chen, Hsin-Hsi},
