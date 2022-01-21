@@ -1,8 +1,15 @@
 # FiNCAT: Financial Numeral Claim Analysis Tool
+
 A tool to detect whether numerals present in Financial Texts are in-claim or out-of-claim
 
-Dataset : Citation add FinNum-3 overview paper
+**How to use?** <br>
 
-Tool citation: add
+<br>**Training**<br>
+For training you need to execute the *FiNCAT_training.ipynb* notebook the present in the training folder. It needs *fincat_utils.py* present in the main folder and the embeddings/labels present in the training folder as .csv files. *X_train_df.zip* needs to be unzipped to get the X_train_df.csv file. <br>
 
-How to use instructions add?
+<br>**Using the tool**<br>
+For using the tool you need to execute the *FiNCAT_tool.ipynb* notebook the present in the tool folder. It needs *fincat_utils.py* present in the main folder and the *lr_clf_FiNCAT.pickle* artifact present in the tool folder
+
+Tool citation:
+
+Dataset: Citation add FinNum-3 overview paper
