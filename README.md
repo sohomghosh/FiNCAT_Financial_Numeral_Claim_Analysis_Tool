@@ -24,7 +24,7 @@ Tool citation:
 }
 ```
 
-Dataset:
+Dataset citation:
 ```bibtex
 @misc{finum3,
 title={Overview of the NTCIR-16 FinNum-3 Task (English) : Investor's and Manager's Fine-grained Claim Detection},
