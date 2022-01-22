@@ -8,6 +8,9 @@ A tool to detect whether numerals present in Financial Texts are in-claim or out
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/system-diagram.png)
 
 ## How to use? <br>
+
+Please refer to requirements.txt for versions of the Python libaries used while developing this tool.
+
 <br>**Training**<br>
 For training you need to execute the *FiNCAT_training.ipynb* notebook the present in the training folder. It needs *fincat_utils.py* present in the main folder and the embeddings/labels present in the training folder as .csv files. *X_train_df.zip* needs to be unzipped to get the X_train_df.csv file. <br>
 <br>**Using the tool**<br>
