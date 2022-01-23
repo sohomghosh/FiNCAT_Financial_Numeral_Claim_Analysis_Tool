@@ -13,9 +13,12 @@ Please refer to requirements.txt for versions of the Python libaries used while 
 
 <br>**Training**<br>
 For training you need to execute the *FiNCAT_training.ipynb* notebook the present in the training folder. It needs *fincat_utils.py* present in the main folder and the embeddings/labels present in the training folder as .csv files. *X_train_df.zip* needs to be unzipped to get the X_train_df.csv file. You can obtain the raw data from [here](https://sites.google.com/nlg.csie.ntu.edu.tw/finnum3/data) .<br>
+
 <br>**Using the tool**<br>
 For using the tool you do not need to train it as we have already provided the model artifacts. You can simply execute the *FiNCAT_tool.ipynb* notebook the present in the tool folder. It needs *fincat_utils.py* present in the main folder and the *lr_clf_FiNCAT.pickle* artifact present in the tool folder
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT.png)
+
+This tool has been built using [Google Colab](https://colab.research.google.com/) and [Gradio](https://gradio.app/)
 
 Tool citation:
 ```bibtex 
