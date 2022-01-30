@@ -34,14 +34,14 @@ Tool citation:
 }
 ```
 
-Dataset citation:
+Dataset and shared task citation:
 ```bibtex
-@misc{finum3,
-title={Overview of the NTCIR-16 FinNum-3 Task (English) : Investor's and Manager's Fine-grained Claim Detection},
-author={Chen, Chung-Chi and Huang, Hen-Hsen and Takamura, Hiroya and Huang, Yu-Lieh and Chen, Hsin-Hsi},
-booktitle = "Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies",
-url = "forthcoming",
-intype = {to appear in},
+@inproceedings{finum3,
+  title={Overview of the NTCIR-16 FinNum-3 Task: Investor’s and Manager’s 
+Fine-grained Claim Detection},
+  author={Chen, Chung-Chi and Huang, Hen-Hsen and Huang, Yu-Lieh and Takamura, Hiroya and Chen, Hsin-Hsi},
+  journal={Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, Tokyo Japan},
+  year={2022}
 }
 ```
 
