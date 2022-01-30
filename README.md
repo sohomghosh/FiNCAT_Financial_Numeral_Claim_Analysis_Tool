@@ -27,10 +27,9 @@ Tool citation:
     author = "Sohom Ghosh, Sudip Kumar Naskar",
     booktitle = "",
     month = "",
-    year = "",
-    publisher = "",
-    url = "forthcoming",
-    intype = {submitted},
+    year = "2022",
+    howpublished = {EasyChair Preprint no. 7387},
+    url = "https://easychair.org/publications/preprint/K2JJ",
 }
 ```
 
