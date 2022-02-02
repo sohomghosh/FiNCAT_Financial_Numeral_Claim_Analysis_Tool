@@ -25,11 +25,11 @@ Tool citation:
 @misc{ghosh-fiNCAT,
     title = "FiNCAT: Financial Numeral Claim Analysis Tool",
     author = "Sohom Ghosh, Sudip Kumar Naskar",
-    booktitle = "",
-    month = "",
     year = "2022",
-    howpublished = {EasyChair Preprint no. 7387},
-    url = "https://easychair.org/publications/preprint/K2JJ",
+    eprint={2202.00631},
+    archivePrefix={arXiv},
+    primaryClass={q-fin.GN},
+    url = "https://arxiv.org/abs/2202.00631",
 }
 ```
 
