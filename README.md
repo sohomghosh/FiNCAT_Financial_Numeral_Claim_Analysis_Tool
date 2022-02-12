@@ -70,3 +70,4 @@ pages = {1973–1976},
 numpages = {4}
 }
 ```
+[Blog by Arushi Prakash](https://towardsdatascience.com/3-types-of-contextualized-word-embeddings-from-bert-using-transfer-learning-81fcefe3fe6d)
