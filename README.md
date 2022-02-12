@@ -11,6 +11,7 @@ A tool to detect whether numerals present in Financial Texts are in-claim or out
 
 ### To use it directly from HuggingFace Spaces: Use this [link](https://huggingface.co/spaces/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool)
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/HF_Spaces_FiNCAT-2.png)
+### The API is available [here](https://hf.space/gradioiframe/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/api).
 
 *For re-training or re-using the tool locally or in [Google Colab](https://colab.research.google.com/), please refer to requirements.txt for versions of the Python libaries used while developing this tool.*
 
@@ -21,7 +22,7 @@ For training you need to execute the *FiNCAT_training.ipynb* notebook the presen
 For using the tool you do not need to train it as we have already provided the model artifacts. You can simply execute the *FiNCAT_tool.ipynb* notebook the present in the tool folder. It needs *fincat_utils.py* present in the main folder and the *lr_clf_FiNCAT.pickle* artifact present in the tool folder
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT.png)
 
-## FiNCAT
+## FiNCAT (with enhanced UI)
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT-2_short_demo.gif)
 
 ### FiNCAT Video Demonstration on YouTube 
