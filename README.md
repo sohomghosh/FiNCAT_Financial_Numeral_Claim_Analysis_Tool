@@ -18,6 +18,13 @@ For training you need to execute the *FiNCAT_training.ipynb* notebook the presen
 For using the tool you do not need to train it as we have already provided the model artifacts. You can simply execute the *FiNCAT_tool.ipynb* notebook the present in the tool folder. It needs *fincat_utils.py* present in the main folder and the *lr_clf_FiNCAT.pickle* artifact present in the tool folder
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT.png)
 
+## FiNCAT-2 (an enhanced version)
+![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT-2_short_demo.gif)
+
+### FiNCAT-2 Video Demonstration on YouTube 
+[![Video Demonstration](https://img.youtube.com/vi/5GmtiOKWSwc/0.jpg)](https://www.youtube.com/watch?v=5GmtiOKWSwc)
+
+
 This tool has been built using [Google Colab](https://colab.research.google.com/) and [Gradio](https://gradio.app/) .
 
 Tool citation:
