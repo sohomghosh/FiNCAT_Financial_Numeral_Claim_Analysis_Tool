@@ -49,7 +49,7 @@ Dataset and shared task citation:
   title={Overview of the NTCIR-16 FinNum-3 Task: Investor’s and Manager’s 
 Fine-grained Claim Detection},
   author={Chen, Chung-Chi and Huang, Hen-Hsen and Huang, Yu-Lieh and Takamura, Hiroya and Chen, Hsin-Hsi},
-  journal={Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, Tokyo Japan},
+  journal={Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies, Tokyo Japan},
   year={2022}
 }
 ```
