@@ -9,25 +9,26 @@ A tool to detect whether numerals present in Financial Texts are in-claim or out
 
 ## How to use? <br>
 
-### To use it directly from HuggingFace Spaces: Use this [link](https://huggingface.co/spaces/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool)
+### Use it directly from [HuggingFace Spaces](https://huggingface.co/spaces/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool) or [Google Colab](https://colab.research.google.com/drive/1OEN48pPaEFAXiB972tYjC0Llfo0qrLcN?usp=sharing)
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/HF_Spaces_FiNCAT-2.png)
 ### The API is available [here](https://hf.space/gradioiframe/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/api).
 
-*For re-training or re-using the tool locally or in [Google Colab](https://colab.research.google.com/), please refer to requirements.txt for versions of the Python libaries used while developing this tool.*
+*For re-training or re-using the tool locally, please refer to requirements.txt for versions of the Python libaries used while developing this tool.*
 
 <br>**Training**<br>
 For training you need to execute the *FiNCAT_training.ipynb* notebook the present in the training folder. It needs *fincat_utils.py* present in the main folder and the embeddings/labels present in the training folder as .csv files. *X_train_df.zip* needs to be unzipped to get the X_train_df.csv file. You can obtain the raw data from [here](https://sites.google.com/nlg.csie.ntu.edu.tw/finnum3/data) .<br>
 
-<br>**Using the tool locally or in Google Colab**<br>
-For using the tool you do not need to train it as we have already provided the model artifacts. You can simply execute the *FiNCAT_tool.ipynb* notebook the present in the tool folder. It needs *fincat_utils.py* present in the main folder and the *lr_clf_FiNCAT.pickle* artifact present in the tool folder
+<br>**Using the tool locally**<br>
+For using the tool locally, you do not need to train it as we have already provided the model artifacts. You can simply execute the [FiNCAT_tool_enhanced_UI.ipynb notebook](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/tool/FiNCAT_tool_enhanced_UI.ipynb). More details have been provided in the tools folder.
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT.png)
 
 ## FiNCAT (with enhanced UI)
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT-2_short_demo.gif)
 
-### FiNCAT Video Demonstration on YouTube 
+### FiNCAT Video Demonstration (on YouTube)
 [![Video Demonstration](https://img.youtube.com/vi/5GmtiOKWSwc/0.jpg)](https://www.youtube.com/watch?v=5GmtiOKWSwc)
 
+# Credits
 
 This tool has been built using [Google Colab](https://colab.research.google.com/) and [Gradio](https://gradio.app/). It has been hosted using [🤗 HuggingFace Spaces](https://huggingface.co/spaces/).
 
