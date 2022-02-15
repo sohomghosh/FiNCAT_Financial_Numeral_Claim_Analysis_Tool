@@ -1,0 +1,1 @@
+The embeddings and labels are released under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/training/License.md) license.
