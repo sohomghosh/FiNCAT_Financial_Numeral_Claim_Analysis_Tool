@@ -71,3 +71,7 @@ numpages = {4}
 }
 ```
 [Blog by Arushi Prakash](https://towardsdatascience.com/3-types-of-contextualized-word-embeddings-from-bert-using-transfer-learning-81fcefe3fe6d)
+
+NOTE: <br>
+This [tool](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/tree/main/tool) is released under [MIT license](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/tool/LICENSE.txt). <br>
+The [embeddings and labels](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/tree/main/training) are released under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/training/License.md) license.
