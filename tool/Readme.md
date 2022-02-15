@@ -4,3 +4,5 @@ You can also use the API directly from [HuggingFace - powered by Gradio](https:/
 
 
 For using the older version, you need to execute the FiNCAT_tool.ipynb notebook the present in the this folder. It needs fincat_utils.py present in the main folder and the lr_clf_FiNCAT.pickle artifact present in this folder. It requires: [utils code](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/fincat_utils.py) and [model artifact](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/tool/lr_clf_FiNCAT.pickle)
+
+This tool is released under [MIT](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/tool/LICENSE.txt) license.
