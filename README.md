@@ -28,7 +28,7 @@ For using the tool locally, you do not need to train it as we have already provi
 ### FiNCAT Video Demonstration (on YouTube)
 [![Video Demonstration](https://img.youtube.com/vi/5GmtiOKWSwc/0.jpg)](https://www.youtube.com/watch?v=5GmtiOKWSwc)
 
-# Credits
+# References
 
 This tool has been built using [Google Colab](https://colab.research.google.com/) and [Gradio](https://gradio.app/). It has been hosted using [🤗 HuggingFace Spaces](https://huggingface.co/spaces/).
 
