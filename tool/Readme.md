@@ -3,6 +3,6 @@ You can access the tool (with enhanced UI) directly from [HuggingFace Spaces](ht
 You can also use the API directly from [HuggingFace - powered by Gradio](https://hf.space/gradioiframe/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/api)
 
 
-For using the older version, you need to execute the FiNCAT_tool.ipynb notebook the present in the this folder. It needs fincat_utils.py present in the main folder and the lr_clf_FiNCAT.pickle artifact present in this folder. It requires: [utils code](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/fincat_utils.py) and [model artifact](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/tool/lr_clf_FiNCAT.pickle)
+For using the older version, you need to execute the FiNCAT_tool.ipynb notebook the present in the this folder. It needs [fincat_utils.py](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/fincat_utils.py) present in the [main directory](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool) and the [lr_clf_FiNCAT.pickle](https://raw.githubusercontent.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/main/tool/lr_clf_FiNCAT.pickle) artifact present in this [directory](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/tree/main/tool).
 
 This tool is released under [MIT](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/tool/LICENSE.txt) license.
