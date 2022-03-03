@@ -1,6 +1,6 @@
 # FiNCAT: Financial Numeral Claim Analysis Tool
 
-A tool to detect whether numerals present in Financial Texts are in-claim or out-of-claim
+A tool to detect whether numerals present in Financial Texts are in-claim or out-of-claim. It has been accepted at the FinWeb@TheWebConf-2022 (formerly ACM-WWW) (Core rank: A*) ([pre-print](https://arxiv.org/abs/2202.00631))
 
 ![alt text](https://github.com/sohomghosh/FiNCAT_Financial_Numeral_Claim_Analysis_Tool/blob/main/FiNCAT_intro.png)
 
