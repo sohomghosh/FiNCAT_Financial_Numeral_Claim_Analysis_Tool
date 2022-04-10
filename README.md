@@ -34,14 +34,27 @@ This tool has been built using [Google Colab](https://colab.research.google.com/
 
 Tool citation:
 ```bibtex 
-@misc{ghosh-fiNCAT,
+@inproceedings{ghosh-fiNCAT,
     title = "FiNCAT: Financial Numeral Claim Analysis Tool",
     author = "Sohom Ghosh, Sudip Kumar Naskar",
     year = "2022",
-    eprint={2202.00631},
-    archivePrefix={arXiv},
-    primaryClass={q-fin.GN},
+    journal = "In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion)"
     url = "https://arxiv.org/abs/2202.00631",
+    doi = "10.1145/3487553.3524635"
+}
+```
+
+```bibtex 
+@article{fincat2,
+title = {FiNCAT-2: An enhanced Financial Numeral Claim Analysis Tool},
+journal = {Software Impacts},
+volume = {},
+pages = {},
+year = {Accepted for publication},
+issn = {2665-9638},
+doi = {},
+url = {},
+author = {Sohom Ghosh, Sudip Kumar Naskar},
 }
 ```
 
