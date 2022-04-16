@@ -50,10 +50,10 @@ title = {FiNCAT-2: An enhanced Financial Numeral Claim Analysis Tool},
 journal = {Software Impacts},
 volume = {},
 pages = {},
-year = {Accepted for publication},
+year = {2022},
 issn = {2665-9638},
-doi = {},
-url = {},
+doi = {10.1016/j.simpa.2022.100288},
+url = {https://www.sciencedirect.com/science/article/pii/S2665963822000367},
 author = {Sohom Ghosh, Sudip Kumar Naskar},
 }
 ```
